@@ -3,4 +3,4 @@
 1-	var tmp=document.querySelector('._icyx7');
 2-	tmp.getAttribute('src');
 
-#Just run on your browser console.
+#Just run on your browser's console.
