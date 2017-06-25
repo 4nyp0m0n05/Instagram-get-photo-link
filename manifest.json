@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "Instagram Photo",
+  "version": "1.0",
+
+  "description": "Download photo or video in new page",
+
+  
+
+  "content_scripts": [
+    {
+      "matches": ["*://www.instagram.com/*"],
+      "js": ["insta.js"]
+    }
+  ]
+
+}
