@@ -1,3 +1,3 @@
-var tmp=document.querySelector('._icyx7');
-window.open(tmp.src,'_blank');
+var tmp=document.querySelector('._2di5p');
+window.open(tmp.srcset.split(',')[2].split(" ")[0],'_blank');
 
